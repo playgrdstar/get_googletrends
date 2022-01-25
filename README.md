@@ -1,6 +1,6 @@
-# A simple guide to downloading and processing data from GDELT GKG 
+# A simple guide to downloading and processing data from Google Trends
 
-A simple guide to downloading and processing data from GDELT GKG.
+A super simple guide to downloading and processing data from  Google Trends
 A writeup on the code in this repo. is available [here][1].
 
-[1]:    https://quaintitative.com/extract_gdelt_gkg_bigquery/
+[1]:    https://quaintitative.com/extract_gtrends/
